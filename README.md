@@ -12,8 +12,12 @@ The paper is available at https://arxiv.org/abs/2504.11711
 - Step 2: open another terminal, and run `docker exec -it buglens-app bash` to get into the container, the runner is in `app/run.py`
 
 
+# Prompt Design
 
-## Source Code
+The overview of the prompt design is in [prompt.pdf](prompt.pdf)
+
+
+# Source Code
 
 The source code is available at [BugLens-Code](https://github.com/seclab-ucr/BugLens-Code)
 
