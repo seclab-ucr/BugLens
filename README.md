@@ -2,7 +2,22 @@
 
 BugLens is a tool that uses LLMs to refine static analysis results. It focus on "taint-style" bugs. Experiments on Linux kernel code show that it can improve the precision by 7x and can also help with recall (for those bugs that are ignored by human reviewers).
 
-The paper is available at https://arxiv.org/abs/2504.11711
+The paper ("Towards More Accurate Static Analysis for Taint-Style Bug Detection in Linux Kernel") is available at [https://haonan.me/static/papers/buglens_ase.pdf](https://haonan.me/static/papers/buglens_ase.pdf)
+
+## Paper Info
+
+aka: "The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs" (title on [arxiv](https://arxiv.org/abs/2504.11711))
+(Our Part I: [LLift](https://github.com/seclab-ucr/LLift))
+
+```bibtex
+@inproceedings{Li2025BugLens,
+  author    = {Haonan Li and Hang Zhang and Kexin Pei and Zhiyun Qian},
+  title     = {Towards More Accurate Static Analysis for Taint-Style Bug Detection in Linux Kernel},
+  booktitle = {Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE)},
+  year      = {2025},
+  location  = {Seoul, South Korea}
+}
+```
 
 # Quick Start
 
