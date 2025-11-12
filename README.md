@@ -15,7 +15,8 @@ aka: "The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs
   title     = {Towards More Accurate Static Analysis for Taint-Style Bug Detection in Linux Kernel},
   booktitle = {Proceedings of the IEEE/ACM International Conference on Automated Software Engineering (ASE)},
   year      = {2025},
-  location  = {Seoul, South Korea}
+  location  = {Seoul, South Korea},
+  doi       = {10.1109/ASE63991.2025.00039}
 }
 ```
 
