@@ -4,6 +4,10 @@ BugLens is a tool that uses LLMs to refine static analysis results. It focus on 
 
 The paper ("Towards More Accurate Static Analysis for Taint-Style Bug Detection in Linux Kernel") is available at [https://haonan.me/static/papers/buglens_ase.pdf](https://haonan.me/static/papers/buglens_ase.pdf)
 
+## Real bug found by BugLens
+
+[CVE-2025-47320](https://docs.qualcomm.com/securitybulletin/december-2025-bulletin.html)
+
 ## Paper Info
 
 aka: "The Hitchhiker's Guide to Program Analysis, Part II: Deep Thoughts by LLMs" (title on [arxiv](https://arxiv.org/abs/2504.11711))
